@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamshd)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shubhamshd&theme=dark&hide_border=true&card_width=500)](https://git.io/streak-stats)
 <!--
 **shubhamshd/shubhamshd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
